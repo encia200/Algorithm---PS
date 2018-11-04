@@ -1,5 +1,8 @@
-# BOJ
-Problem Solving
+BaekJoon Online Judge
+=====================
 
-### Baekjoon Online Judge
-***My Source Codes***
+URL: https://www.acmicpc.net/
+
+### Profile 
+BOJ : https://www.acmicpc.net/user/wie_eiw
+Codeforces : http://codeforces.com/profile/wiejoonyoung
