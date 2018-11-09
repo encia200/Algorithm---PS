@@ -1,9 +1,16 @@
 Problem Solving Algorithm 
 =========================
 
-### 2018-02-29 ~
+### Profile 
+#### 2018-02-29 ~
+BOJ : https://www.acmicpc.net/user/wie_eiw
+
+Codeforces : http://codeforces.com/profile/wiejoonyoung
 
 -------------------------
+
+### Level 1
+
 - 기초 자료구조(스택, 큐, 트리) 구현
 - DFS, BFS
 - Dynamic Programming
@@ -14,6 +21,8 @@ Problem Solving Algorithm
 - 파라매틱 서치(이분법)
 - 그리디
 - 백트랙킹
+
+### Level 2
 
 - Disjoint-set/Union Find
 - 인덱스 트리
@@ -33,6 +42,8 @@ Problem Solving Algorithm
 - Closest Pair
 - Convex hull
 
+### Level 3
+
 - 세그먼트 트리 Lazy Propagation
 - Hashing
 - 문자열 (Aho-Corasick, 접미사 배열)
@@ -44,9 +55,3 @@ Problem Solving Algorithm
 - Heavy-Light Decomposition
 - 계산 기하(Delaunay Triangulation, Rotating Calipers)
 - 각종 고급 자료구조(Persistent Segment Tree, Splay Tree, Euler Tour Tree...)
-
-### Profile 
-
-BOJ : https://www.acmicpc.net/user/wie_eiw
-
-Codeforces : http://codeforces.com/profile/wiejoonyoung
